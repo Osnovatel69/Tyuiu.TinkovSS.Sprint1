@@ -12,7 +12,7 @@ namespace Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib
         public double Calculate(double x)
         {
             double y = 0;
-            double yPrev;
+            double yPrev = 0;
             double eps = 0.000001;
 
             for (int i = 0; i < 1000; i++)

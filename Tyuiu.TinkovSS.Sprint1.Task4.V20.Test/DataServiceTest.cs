@@ -1,21 +1,21 @@
 ﻿using Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib;
+using Tyuiu.TinkovSS.Sprint1.Task4.V20.Test;
 
-namespace Tyuiu.TinkovSS.Sprint1.Task4.V20.Test
+namespace Tyuiu.TinkovSS.Sprint1.Task20.V20.Test
 {
     [TestClass]
     public class DataServiceTest
     {
-        public object Assert { get; private set; }
-
         [TestMethod]
         public void ValidCalculate()
         {
             DataService ds = new DataService();
 
-            double x = 2;
-            double wait = 2.088;
+            double x = 1;
+            double wait = 2;
             double res = ds.Calculate(x);
-            _ = Assert.AreEqual(wait, res);
+
+            Assert.AreEqual(wait, res);
         }
     }
 }
