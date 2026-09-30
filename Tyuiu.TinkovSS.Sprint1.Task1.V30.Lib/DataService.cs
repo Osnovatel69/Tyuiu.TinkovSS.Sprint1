@@ -2,7 +2,7 @@
 
 namespace Tyuiu.TinkovSS.Sprint1.Task1.V30.Lib
 {
-    public class DataService : ISprint1Task0V3
+    public class DataService : ISprint1Task1V30
     {
         public double Calculate(double x)
         {
