@@ -1,5 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib;
+﻿using Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib;
 
 namespace Tyuiu.TinkovSS.Sprint1.Task3.V6.Test
 {
