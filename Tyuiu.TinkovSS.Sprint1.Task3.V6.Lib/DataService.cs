@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace Tyuiu.TinkovSS.Sprint1.Task4.V6.Lib
+namespace Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib
 {
-    public interface ISprint1Task4V6
+    public interface ISprint1Task3V6
     {
         double Calculate(double distance, double consumption, double price);
     }
 
-    public class DataService : ISprint1Task4V6
+    public class DataService : ISprint1Task3V6
     {
         public double Calculate(double distance, double consumption, double price)
         {

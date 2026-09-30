@@ -9,12 +9,12 @@
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task1.V30.Test/Tyuiu.TinkovSS.Sprint1.Task1.V30.Test.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task1.V30/Tyuiu.TinkovSS.Sprint1.Task1.V30.csproj" />
   </Folder>
-  <Folder Name="/Task3/">
+  <Folder Name="/Task2/">
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task2.V13.Lib/Tyuiu.TinkovSS.Sprint1.Task2.V13.Lib.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task2.V13.Test/Tyuiu.TinkovSS.Sprint1.Task2.V13.Test.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task2.V13/Tyuiu.TinkovSS.Sprint1.Task2.V13.csproj" />
   </Folder>
-  <Folder Name="/Task4/">
+  <Folder Name="/Task3/">
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib/Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task3.V6.Test/Tyuiu.TinkovSS.Sprint1.Task3.V6.Test.csproj" />
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task3.V6/Tyuiu.TinkovSS.Sprint1.Task3.V6.csproj" />
