@@ -8,5 +8,10 @@ namespace Tyuiu.TinkovSS.Sprint1.Task1.V13.Lib
         {
             return miles * 1.609344;
         }
+
+        public double Calculate(double x)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
