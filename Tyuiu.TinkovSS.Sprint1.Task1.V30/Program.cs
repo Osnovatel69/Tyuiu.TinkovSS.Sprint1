@@ -1,5 +1,4 @@
-﻿using System;
-using Tyuiu.TinkovSS.Sprint1.Task1.V30.Lib;
+﻿using Tyuiu.TinkovSS.Sprint1.Task1.V30.Lib;
 
 namespace Tyuiu.TinkovSS.Sprint1.Task1.V30
 {
