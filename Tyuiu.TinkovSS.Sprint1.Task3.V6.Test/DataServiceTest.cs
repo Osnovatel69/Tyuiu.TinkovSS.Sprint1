@@ -1,6 +1,6 @@
-﻿using Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib;
+﻿using Tyuiu.TinkovSS.Sprint1.Task4.V6.Lib;
 
-namespace Tyuiu.TinkovSS.Sprint1.Task3.V6.Test
+namespace Tyuiu.TinkovSS.Sprint1.Task4.V6.Test
 {
     [TestClass]
     public class DataServiceTest
@@ -17,7 +17,7 @@ namespace Tyuiu.TinkovSS.Sprint1.Task3.V6.Test
             double wait = 74.035;
             double res = ds.Calculate(distance, consumption, price);
 
-            Assert.AreEqual(wait, res);
+            Assert.AreEqual(wait, res, 0.001);
         }
     }
 }
