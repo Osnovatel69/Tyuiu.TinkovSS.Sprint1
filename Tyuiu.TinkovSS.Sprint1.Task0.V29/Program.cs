@@ -12,9 +12,9 @@ namespace Tyuiu.TinkovSS.Sprint1.Task0.V29
 
             DataService dataService = new DataService();
 
-            int result = dataService.Calculate();
+            double result = dataService.Calculate();
 
-            Console.WriteLine("Результат: " + result);
+            Console.WriteLine("Результат: " + result.ToString("0.0"));
 
             Console.ReadKey();
         }

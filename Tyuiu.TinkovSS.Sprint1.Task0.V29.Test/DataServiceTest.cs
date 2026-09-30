@@ -13,7 +13,7 @@ namespace Tyuiu.TinkovSS.Sprint1.Task0.V29.Test
 
             double result = dataService.Calculate();
 
-            Assert.AreEqual(32, result);
+            Assert.AreEqual(32.0, result);
         }
     }
 }
