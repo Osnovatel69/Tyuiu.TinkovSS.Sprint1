@@ -24,7 +24,11 @@
     <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task4.V20.Test/Tyuiu.TinkovSS.Sprint1.Task4.V20.Test.csproj" />
     <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task4.V20/Tyuiu.TinkovSS.Sprint1.Task4.V20.csproj" />
   </Folder>
-  <Folder Name="/Task5/" />
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.TinkovSS.Sprint1.V2.Lib/Tyuiu.TinkovSS.Sprint1.Task5.V2.Lib.csproj" Id="6a57709f-f1c2-4b62-bcfb-9ff6ce5e6457" />
+    <Project Path="Tyuiu.TinkovSS.Sprint1.V2.Test/Tyuiu.TinkovSS.Sprint1.Task5.V2.Test.csproj" Id="f4843127-3c5d-44bb-b5e4-82c6dcca9927" />
+    <Project Path="Tyuiu.TinkovSS.Sprint1.V2/Tyuiu.TinkovSS.Sprint1.Task5.V2.csproj" Id="cb285ee7-6340-46c8-bd84-02988916762b" />
+  </Folder>
   <Folder Name="/Task6/">
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task6.V2.Lib/Tyuiu.TinkovSS.Sprint1.Task6.V2.Lib.csproj" Id="67b8d2e0-51a8-4066-a730-01b64f30d3cf" />
     <Project Path="Tyuiu.TinkovSS.Sprint1.Task6.V2.Test/Tyuiu.TinkovSS.Sprint1.Task6.V2.Test.csproj" Id="0aa48fd9-2414-496d-9af1-f215ca4b7235" />
