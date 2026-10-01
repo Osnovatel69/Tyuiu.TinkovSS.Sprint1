@@ -2,13 +2,15 @@
 
 namespace Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib
 {
-    public interface ISprint1Task4V20
-    {
-        double Calculate(double x);
-    }
 
     public class DataService : ISprint1Task4V20
     {
+        public DataService()
+        {
+
+        }
+
+
         public double Calculate(double x)
         {
             double y = 0;
