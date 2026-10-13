@@ -1,26 +1,13 @@
-﻿namespace Tyuiu.TinkovSS.Sprint1.V2
+﻿using System;
+
+namespace Tyuiu.TinkovSS.Sprint1.Task5.V2.Lib
 {
-    internal class Program
+    public class DataService
     {
-        static void Main(string[] args)
+        public int ConvertFahrenheitToCelsius(double fahrenheit)
         {
-            DataService ds = new DataService();
-
-           
-        Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт №1                                                               *");
-            Console.WriteLine("* Тема: Арифметические операции                                           *");
-            Console.WriteLine("* Вариант №2                                                              *");
-            Console.WriteLine("***************************************************************************");
-
-            Console.Write("Введите температуру в градусах Фаренгейта: ");
-            double fahrenheit = Convert.ToDouble(Console.ReadLine());
-
-            int celsius = ds.Calculate(fahrenheit);
-
-            Console.WriteLine("Температура в градусах Цельсия: " + celsius);
-
-            Console.ReadKey();
+            double celsius = (fahrenheit - 32) * 5 / 9;
+            return Convert.ToInt32(celsius);
         }
     }
 }
