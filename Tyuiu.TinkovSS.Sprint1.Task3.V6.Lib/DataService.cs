@@ -1,20 +1,16 @@
 ﻿using System;
+using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib
 {
-    public interface ISprint1Task3V6
-    {
-        double Calculate(double distance, double consumption, double price);
-    }
-
     public class DataService : ISprint1Task3V6
     {
-        public double Calculate(double distance, double consumption, double price)
+        public double TravelCost(double distance, double gasAmount, double priceGas)
         {
-            double totalDistance = distance * 2;
-            double totalFuel = (totalDistance / 100) * consumption;
-            double totalCost = totalFuel * price;
-            return Math.Round(totalCost, 3);
+            // Поездка туда и обратно (2 * distance)
+            double result = 2 * distance * (gasAmount / 100.0) * priceGas;
+
+            return Math.Round(result, 3);
         }
     }
 }
