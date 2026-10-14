@@ -1,6 +1,4 @@
-﻿namespace Tyuiu.TinkovSS.Sprint1.Task4.V20.Test
-using global::Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib;
 
 namespace Tyuiu.TinkovSS.Sprint1.Task4.V20.Test
