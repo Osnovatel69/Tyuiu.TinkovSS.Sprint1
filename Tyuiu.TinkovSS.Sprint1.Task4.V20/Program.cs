@@ -37,4 +37,14 @@ namespace Tyuiu.TinkovSS.Sprint1.Task4.V20
             double y = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("*
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("***************************************************************************");
+
+            double res = ds.Calculate(x, y);
+
+            Console.WriteLine($"Значение выражения = {res}");
+
+            Console.ReadKey();
+        }
+    }
+}
