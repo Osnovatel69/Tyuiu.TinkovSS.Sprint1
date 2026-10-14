@@ -1,37 +1,7 @@
 <Solution>
-  <Folder Name="/Task0/">
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task0.V29.Lib/Tyuiu.TinkovSS.Sprint1.Task0.V29.Lib.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task0.V29.Test/Tyuiu.TinkovSS.Sprint1.Task0.V29.Test.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task0.V29/Tyuiu.TinkovSS.Sprint1.Task0.V29.csproj" />
-  </Folder>
-  <Folder Name="/Task1/">
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task1.V30.Lib/Tyuiu.TinkovSS.Sprint1.Task1.V30.Lib.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task1.V30.Test/Tyuiu.TinkovSS.Sprint1.Task1.V30.Test.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task1.V30/Tyuiu.TinkovSS.Sprint1.Task1.V30.csproj" />
-  </Folder>
-  <Folder Name="/Task2/">
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task2.V13.Lib/Tyuiu.TinkovSS.Sprint1.Task2.V13.Lib.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task2.V13.Test/Tyuiu.TinkovSS.Sprint1.Task2.V13.Test.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task2.V13/Tyuiu.TinkovSS.Sprint1.Task2.V13.csproj" />
-  </Folder>
-  <Folder Name="/Task3/">
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib/Tyuiu.TinkovSS.Sprint1.Task3.V6.Lib.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task3.V6.Test/Tyuiu.TinkovSS.Sprint1.Task3.V6.Test.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task3.V6/Tyuiu.TinkovSS.Sprint1.Task3.V6.csproj" />
-  </Folder>
-  <Folder Name="/Task4/">
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib/Tyuiu.TinkovSS.Sprint1.Task4.V20.Lib.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task4.V20.Test/Tyuiu.TinkovSS.Sprint1.Task4.V20.Test.csproj" />
-    <Project Path="../../../../../source/repos/Tyuiu.TinkovSS.Sprint1/Tyuiu.TinkovSS.Sprint1.Task4.V20/Tyuiu.TinkovSS.Sprint1.Task4.V20.csproj" />
-  </Folder>
   <Folder Name="/Task5/">
-    <Project Path="Tyuiu.TinkovSS.Sprint1.V2.Lib/Tyuiu.TinkovSS.Sprint1.Task5.V2.Lib.csproj" Id="6a57709f-f1c2-4b62-bcfb-9ff6ce5e6457" />
-    <Project Path="Tyuiu.TinkovSS.Sprint1.V2.Test/Tyuiu.TinkovSS.Sprint1.Task5.V2.Test.csproj" Id="f4843127-3c5d-44bb-b5e4-82c6dcca9927" />
-    <Project Path="Tyuiu.TinkovSS.Sprint1.V2/Tyuiu.TinkovSS.Sprint1.Task5.V2.csproj" Id="cb285ee7-6340-46c8-bd84-02988916762b" />
-  </Folder>
-  <Folder Name="/Task6/">
-    <Project Path="Tyuiu.TinkovSS.Sprint1.Task6.V2.Lib/Tyuiu.TinkovSS.Sprint1.Task6.V2.Lib.csproj" Id="67b8d2e0-51a8-4066-a730-01b64f30d3cf" />
-    <Project Path="Tyuiu.TinkovSS.Sprint1.Task6.V2.Test/Tyuiu.TinkovSS.Sprint1.Task6.V2.Test.csproj" Id="0aa48fd9-2414-496d-9af1-f215ca4b7235" />
-    <Project Path="Tyuiu.TinkovSS.Sprint1.Task6.V2/Tyuiu.TinkovSS.Sprint1.Task6.V2.csproj" Id="7efdc49b-cec8-4b7e-9d32-ecfe964ba095" />
+    <Project Path="Tyuiu.TinkovSS.Sprint1.Task5.V2.Lib/Tyuiu.TinkovSS.Sprint1.Task5.V2.Lib.csproj" Id="b59a1712-0519-42db-8742-52a417b7e2b5" />
+    <Project Path="Tyuiu.TinkovSS.Sprint1.Task5.V2.Test/Tyuiu.TinkovSS.Sprint1.Task5.V2.Test.csproj" Id="5fa66cde-19b8-4678-9143-b32388fad377" />
+    <Project Path="Tyuiu.TinkovSS.Sprint1.Task5.V2/Tyuiu.TinkovSS.Sprint1.Task5.V2.csproj" Id="0a5af6bb-2086-453f-9f92-fdb31b4bcfce" />
   </Folder>
 </Solution>
